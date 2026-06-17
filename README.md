@@ -50,5 +50,5 @@ I'm a Biomedical Engineering student passionate about technology, innovation, an
 
 ## 📫 Connect With Me
 
-* LinkedIn: YOUR_LINKEDIN
-* Email: YOUR_EMAIL
+* LinkedIn: https://www.linkedin.com/in/mohamed-salah-222205396/
+* Email: gaza.7424@gmail.com
